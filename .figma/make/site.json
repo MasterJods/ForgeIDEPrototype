@@ -1,0 +1,10 @@
+{
+  "description": "Forge is an interactive IDE designed for students and beginner developers, providing guided programming mentorship to enhance learning and skill development.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
